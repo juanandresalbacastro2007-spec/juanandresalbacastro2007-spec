@@ -41,7 +41,7 @@ h2 align="center">📊 GitHub Analytics</h2><!-- FILA 1: Estadísticas Principal
 
 <h2 align="center">🚀 Featured Projects</h2><p align="center"> <a href="[LINK_PROYECTO_1]"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU-USUARIO]&repo=[REPO_1]&theme=radical&hide_border=true" /> </a> <a href="[LINK_PROYECTO_2]"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU-USUARIO]&repo=[REPO_2]&theme=radical&hide_border=true" /> </a> </p> <p align="center"> <a href="[LINK_PROYECTO_3]"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU-USUARIO]&repo=[REPO_3]&theme=radical&hide_border=true" /> </a> <a href="[LINK_PROYECTO_4]"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TU-USUARIO]&repo=[REPO_4]&theme=radical&hide_border=true" /> </a> </p>
 
-<h2 align="center">🏆 Achievements & Certifications</h2><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=[TU-USUARIO]&theme=radical&row=1&column=6&no-frame=true" alt="Trophies" /> </p>
+<h2 align="center">🏆 Achievements & Certifications</h2><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=[juan-alba-27]&theme=radical&row=1&column=6&no-frame=true" alt="Trophies" /> </p>
 
 
 <h2 align="center">🎵 Now Playing</h2><p align="center"> <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" /> </p>
