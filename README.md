@@ -50,7 +50,7 @@ me.say_hi()
 <h2 align="center">⌚ Coding Time</h2><p align="center"> <img src="https://wakatime.com/share/@juanandresalbacastro2007-spec/[ID_UNICO].svg" width="49%" /> <img src="https://wakatime.com/share/@juanandresalbacastro2007-spec/[ID_UNICO_2].svg" width="49%" /> </p>
 
 
-h2 align="center">🚀 Featured Projects</h2><p align="center"> 
+Featured Projects</h2><p align="center"> 
 <a href="https://github.com/juanandresalbacastro2007-spec/backend-hebra.git"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=[REPO_1]&theme=radical&hide_border=true" /> </a> 
 <a href="https://github.com/juanandresalbacastro2007-spec/proveedores-back"> 
