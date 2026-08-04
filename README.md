@@ -1,4 +1,4 @@
-## Hi there 👋<h1 align="center">Hi, I'm [juan alba ] 👋</h1>
+## Hi there 👋<h1 align="center">Hi, I'm juan alba  👋</h1>
 <h3 align="center">Full-Stack Developer | Django & Python Enthusiast</h3>
 
 <p align="center">
@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[juanandresalbacastro2007-spec]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[juanandresalbacastro2007-spec]&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
