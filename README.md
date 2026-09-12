@@ -59,7 +59,7 @@ me.say_hi()
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,postgres,git,github,docker,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,git,github,linux,vscode" />
 </p>
 
 ---
@@ -94,9 +94,7 @@ me.say_hi()
 
 </div>
 
-> 💡 Edita libremente la descripción de cada fila. Al usar una tabla en vez de tarjetas de imagen, esta sección siempre se ve bien sin depender de servicios externos que puedan fallar.
 
----
 
 <h2 align="center">🏆 Trophies</h2>
 
@@ -109,10 +107,10 @@ me.say_hi()
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juanandresalbacastro2007-spec/juanandresalbacastro2007-spec/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/juanandresalbacastro2007-spec/juanandresalbacastro2007-spec/output/snake.svg" alt="Snake animation" />
 </p>
 
-
+---
 
 <h2 align="center">💬 Frase del día</h2>
 
