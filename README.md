@@ -40,14 +40,6 @@ me.say_hi()
 
 <h2 align="center">🛠️ Tech Stack</h2><table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> <br>Python </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /> <br>Django </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /> <br>SQL </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> <br>GitHub </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br>HTML5 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /> <br>CSS3 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /> <br>Bootstrap </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /> <br>PostgreSQL </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /> <br>Docker </td> </tr> </table>
 
-<!-- TROFEOS Y LOGROS -->
-<h2 align="center">🏆 Achievements & Certifications</h2><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=juanandresalbacastro2007-spec&theme=radical&row=2&column=4&no-frame=true" alt="Trophies" /> </p>
-
-
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+✨;Let's+connect+and+collaborate!;Keep+coding!+🚀" /> </h3>
-
-
-<h2 align="center">⌚ Coding Time</h2><p align="center"> <img src="https://wakatime.com/share/@juanandresalbacastro2007-spec/[ID_UNICO].svg" width="49%" /> <img src="https://wakatime.com/share/@juanandresalbacastro2007-spec/[ID_UNICO_2].svg" width="49%" /> </p>
 
 
 Featured Projects</h2><p align="center"> 
