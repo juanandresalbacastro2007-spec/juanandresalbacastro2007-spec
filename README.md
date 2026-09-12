@@ -39,7 +39,7 @@ me.say_hi()
 
 
 <h2 align="center">🛠️ Tech Stack</h2><table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> <br>Python </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /> <br>Django </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /> <br>SQL </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> <br>GitHub </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br>HTML5 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /> <br>CSS3 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /> <br>Bootstrap </td> <td align="center" width="96"> 
-
+h2>
 
 Featured Projects</h2><p align="center"> 
 <a href="https://github.com/juanandresalbacastro2007-spec/backend-hebra.git"> 
