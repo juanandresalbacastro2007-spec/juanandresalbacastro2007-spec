@@ -59,7 +59,7 @@ me.say_hi()
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,postgres,git,github,docker,linux,vscode,postman" />
 </p>
 
 ---
@@ -83,25 +83,18 @@ me.say_hi()
 
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
-<p align="center">
-  <a href="https://github.com/juanandresalbacastro2007-spec/backend-hebratech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=backend-hebratech&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/juanandresalbacastro2007-spec/proveedores-back">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=proveedores-back&theme=radical&hide_border=true" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/juanandresalbacastro2007-spec/actividad_de_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=actividad_de_django&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/juanandresalbacastro2007-spec/prototipo-pagina">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=prototipo-pagina&theme=radical&hide_border=true" />
-  </a>
-</p>
+| Proyecto | Descripción | Tech |
+|---|---|---|
+| 🔗 [**backend-hebratech**](https://github.com/juanandresalbacastro2007-spec/backend-hebratech) | Backend del proyecto Hebratech | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🔗 [**proveedores-back**](https://github.com/juanandresalbacastro2007-spec/proveedores-back) | Backend para gestión de proveedores | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🔗 [**actividad_de_django**](https://github.com/juanandresalbacastro2007-spec/actividad_de_django) | Actividad práctica con Django | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| 🔗 [**prototipo-pagina**](https://github.com/juanandresalbacastro2007-spec/prototipo-pagina) | Prototipo de página web | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
-> 💡 Cada tarjeta usa el mismo nombre de repo tanto en el `href` (el link) como en el `repo=` dentro del `src` (la imagen). Si cambias uno, cambia el otro también, o la tarjeta no se generará.
+</div>
+
+> 💡 Edita libremente la descripción de cada fila. Al usar una tabla en vez de tarjetas de imagen, esta sección siempre se ve bien sin depender de servicios externos que puedan fallar.
 
 ---
 
