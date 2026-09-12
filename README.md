@@ -109,7 +109,7 @@ me.say_hi()
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juanandresalbacastro2007-spec/juanandresalbacastro2007-spec/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/juanandresalbacastro2007-spec/juanandresalbacastro2007-spec/output/dist/snake.svg" alt="Snake animation" />
 </p>
 
 > ⚠️ Para que esta animación funcione, necesitas configurar el workflow de GitHub Actions "snk" en tu repositorio de perfil. Puedo ayudarte a configurarlo si quieres.
