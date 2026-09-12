@@ -39,12 +39,4 @@ me.say_hi()
 
 
 <h2 align="center">🛠️ Tech Stack</h2><table align="center"> <tr> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /> <br>Python </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /> <br>Django </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /> <br>SQL </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /> <br>GitHub </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /> <br>HTML5 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /> <br>CSS3 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /> <br>Bootstrap </td> <td align="center" width="96"> 
-h2>
 
-Featured Projects</h2><p align="center"> 
-<a href="https://github.com/juanandresalbacastro2007-spec/backend-hebra.git"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=[REPO_1]&theme=radical&hide_border=true" /> </a> 
-<a href="https://github.com/juanandresalbacastro2007-spec/proveedores-back"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=[REPO_2]&theme=radical&hide_border=true" /> </a> </p> <p align="center"> 
-<a href="https://github.com/juanandresalbacastro2007-spec/maquetacion-navegacion.git"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=[REPO_3]&theme=radical&hide_border=true" /> </a> <a href="[LINK_PROYECTO_4]"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=[REPO_4]&theme=radical&hide_border=true" /> </a> </p>
