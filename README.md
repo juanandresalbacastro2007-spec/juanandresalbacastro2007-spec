@@ -59,7 +59,7 @@ me.say_hi()
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,postgres,git,github,docker,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,mysql,git,github,linux,vscode" />
 </p>
 
 ---
@@ -84,17 +84,21 @@ me.say_hi()
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
 <p align="center">
-  <a href="https://github.com/juanandresalbacastro2007-spec/NOMBRE-REPO-1">
+  <a href="https://github.com/juanandresalbacastro2007-spec/maquetacion-navegacion">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=NOMBRE-REPO-1&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/juanandresalbacastro2007-spec/NOMBRE-REPO-2">
+  <a href="https://github.com/juanandresalbacastro2007-spec/prototipo-pagina">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=NOMBRE-REPO-2&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/juanandresalbacastro2007-spec/actividad_de_django">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=NOMBRE-REPO-2&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/juanandresalbacastro2007-spec/backend-hebratech ">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=NOMBRE-REPO-2&theme=radical&hide_border=true" />
   </a>
 </p>
 
-> 💡 Cambia `NOMBRE-REPO-1` y `NOMBRE-REPO-2` por los nombres reales de tus repositorios que quieras destacar.
 
----
 
 <h2 align="center">🏆 Trophies</h2>
 
