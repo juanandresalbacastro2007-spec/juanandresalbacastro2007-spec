@@ -84,21 +84,26 @@ me.say_hi()
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
 <p align="center">
-  <a href="https://github.com/juanandresalbacastro2007-spec/maquetacion-navegacion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=NOMBRE-REPO-1&theme=radical&hide_border=true" />
+  <a href="https://github.com/juanandresalbacastro2007-spec/backend-hebratech">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=backend-hebratech&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/juanandresalbacastro2007-spec/prototipo-pagina">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=NOMBRE-REPO-2&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/juanandresalbacastro2007-spec/actividad_de_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=NOMBRE-REPO-2&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/juanandresalbacastro2007-spec/backend-hebratech ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=NOMBRE-REPO-2&theme=radical&hide_border=true" />
+  <a href="https://github.com/juanandresalbacastro2007-spec/proveedores-back">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=proveedores-back&theme=radical&hide_border=true" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/juanandresalbacastro2007-spec/actividad_de_django">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=actividad_de_django&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/juanandresalbacastro2007-spec/prototipo-pagina">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=juanandresalbacastro2007-spec&repo=prototipo-pagina&theme=radical&hide_border=true" />
+  </a>
+</p>
 
+> 💡 Cada tarjeta usa el mismo nombre de repo tanto en el `href` (el link) como en el `repo=` dentro del `src` (la imagen). Si cambias uno, cambia el otro también, o la tarjeta no se generará.
+
+---
 
 <h2 align="center">🏆 Trophies</h2>
 
